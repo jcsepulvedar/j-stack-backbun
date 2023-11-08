@@ -1,0 +1,7 @@
+## Get user route version
+GET http://localhost:3000/api/v1/user/version
+Authorization: Bearer token
+
+## Get isAuthorized plugin version
+GET http://localhost:3000/isAuthorizedVersion
+Authorization: Bearer token
